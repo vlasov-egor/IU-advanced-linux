@@ -1,0 +1,37 @@
+BLDD report for bin
+MIPS
+libc.so.0 (3 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/dbd-generic
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/synflood
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/proxychains4
+libc.so.6 (3 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/wget
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/curl
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/axel
+libmatrixssl.so (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/wget
+libtcapi.so.1 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/wget
+libdl.so.2 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/wget
+libpython2.7.so.1.0 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/python
+libpthread.so.1 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/python
+libdl.so.1 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/python
+libutil.so.1 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/python
+libm.so.1 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/python
+libc.so.1 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/python
+ld-uClibc.so.0 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/proxychains4
+libcurl.so.4 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/curl
+libpthread.so.0 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/axel
+X86_64
+libc.so.6 (1 executables)
+        -> /Users/egor-vlasov/src/IU/IU-advanced-linux/lab-1/bin/mips-binaries/binutils/sysinfo
